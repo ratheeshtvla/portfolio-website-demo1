@@ -1,0 +1,115 @@
+body{
+	font-family: "Poppins", sans-serif;
+	color: #1b1b1b;
+	background-color: #fafbfd;
+}
+.usa-hero {
+	padding-top: 8rem;
+	padding-bottom: 8rem;
+	font-family: "Poppins", sans-serif;
+}
+.usa-hero {
+  margin-top: 98px; 
+}
+.usa-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
+  background-color: #005ea2; 
+}
+.usa-header--extended .usa-nav{
+	border: none;
+	padding-top: 1rem;
+	padding-bottom: 1rem;
+}
+.usa-section{
+	font-family: "Poppins", sans-serif;
+	padding-bottom: 2rem;
+        padding-top: 2rem;
+}
+.usa-hero__callout {
+    background-color: transparent;
+	color: #000;
+}
+.usa-hero__heading--alt{
+	color: #000;
+}
+.maxw-mobile-lg {
+    max-width: 35rem;
+}
+.usa-nav__primary {
+  justify-content: center;
+}
+.usa-nav__primary>.usa-nav__primary-item>a{
+	color: #fff;
+    font-weight: 600;
+    font-size: 1.1rem;
+}
+.usa-nav__primary>.usa-nav__primary-item>a{
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+.usa-hero__heading,
+.usa-heading,
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Poppins", sans-serif;
+}
+
+.custom-hero {
+  background: #fafbfd url('https://ratheeshtvla.github.io/uswds-demo/images/banner.png') no-repeat right center / contain;
+  min-height: 500px;
+  padding: 60px 11%;
+  display: flex;
+  align-items: center;
+}
+
+.hero-content {
+	max-width: 650px;
+	color: #000;
+	font-family: "Poppins", sans-serif;
+}
+.usa-section{
+	font-family: "Poppins", sans-serif;
+}
+#experience{
+	font-family: "Poppins", sans-serif;
+	background-color: #fff;
+}
+#experience .text-primary {
+	font-size: 1.3rem;
+	font-weight: 600;
+}
+#experience .usa-intro{
+	font-size: 2rem;
+	font-weight: 700;
+	font-family: "Poppins", sans-serif;
+}
+#experience .usa-list li{
+	max-width: max-content;
+	margin-bottom: 1rem;
+}
+#education{
+	background: #fafbfd;
+	font-family: "Poppins", sans-serif;
+}
+#education .usa-intro{
+	font-size: 2rem;
+	font-weight: 700;
+	font-family: "Poppins", sans-serif;
+}
+#skills{
+	background: #ffffff;
+	font-family: "Poppins", sans-serif;
+}
+#skills .usa-intro{
+	font-size: 2rem;
+	font-weight: 700;
+	font-family: "Poppins", sans-serif;
+}
+.usa-footer__primary-link{
+	text-decoration: none;
+	padding-left: 2rem;
+        padding-right: 2rem;
+}
